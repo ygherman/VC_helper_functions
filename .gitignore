@@ -131,3 +131,4 @@ find_files.py
 first_commit.patch
 google_drive/
 requirements.txt
+!/.env
