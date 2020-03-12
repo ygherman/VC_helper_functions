@@ -132,3 +132,5 @@ first_commit.patch
 google_drive/
 requirements.txt
 !/.env
+!/google_drive/google_drive_api/client_secret_other.json
+!/google_drive/google_drive_api/client_secret.json
